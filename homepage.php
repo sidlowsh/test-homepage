@@ -20,3 +20,10 @@
 	print_r($phone_numbers);
 	echo "Sarah's phone number is " . $phone_numbers["Sarah"] . "\n";
 ?>
+
+<? php
+	$x = 1;
+	$y = 2;
+	$sum = $x + $y;
+	echo $sum;
+?>
